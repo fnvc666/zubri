@@ -25,3 +25,18 @@ of use.
 - Framework: SwiftUI
 - Architecture: MVVM
 - Data Persistence: CoreData, UserDefaults, AppStorage, JSON
+
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/onboarding1.png" alt="Screenshot 0" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/onboarding2.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/onboarding3.png" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/onboarding4.png" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/mainScreen.png" alt="Screenshot 4" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/subtopicsScreen.png" alt="Screenshot 5" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/gameScreen.png" alt="Screenshot 6" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/resultScreen.png" alt="Screenshot 6" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/resultsScreen.png" alt="Screenshot 6" width="300" />
+  <img src="https://github.com/fnvc666/zubri/blob/main/screens/settingsScreen.png" alt="Screenshot 6" width="300" />
+</p>
