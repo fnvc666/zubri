@@ -1,0 +1,66 @@
+{
+  "topics": [
+    {
+      "id": "E8F3A6F7-3F23-4A3F-AB11-111111111111",
+      "title": "School & Education",
+      "emoji": "📚",
+      "order": 0,
+      "subtopics": [
+        {
+          "id": "622B69B5-2222-4C2B-BE22-222222222222",
+          "title": "Plants",
+          "level": "A2",
+          "imageName": "plants",
+          "order": 0,
+          "words": [
+            { "id": "33333333-3333-3333-3333-333333333333", "text": "leaf" },
+            { "id": "44444444-4444-4444-4444-444444444444", "text": "root" },
+            { "id": "55555555-5555-5555-5555-555555555555", "text": "stem" }
+          ]
+        },
+        {
+          "id": "99999999-8888-7777-6666-555555555555",
+          "title": "Classroom",
+          "level": "A2",
+          "imageName": "classroom",
+          "order": 1,
+          "words": [
+            { "id": "aaaa1111-1111-1111-1111-111111111111", "text": "blackboard" },
+            { "id": "aaaa2222-2222-2222-2222-222222222222", "text": "desk" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11111111-2222-3333-4444-555555555555",
+      "title": "Food & Drinks",
+      "emoji": "🍎",
+      "order": 1,
+      "subtopics": [
+        {
+          "id": "abcdef01-2345-6789-abcd-ef0123456789",
+          "title": "Fruits",
+          "level": "A1",
+          "imageName": "fruits",
+          "order": 0,
+          "words": [
+            { "id": "abcd0001-0000-0000-0000-000000000001", "text": "apple" },
+            { "id": "abcd0002-0000-0000-0000-000000000002", "text": "banana" },
+            { "id": "abcd0003-0000-0000-0000-000000000003", "text": "grape" }
+          ]
+        },
+        {
+          "id": "abcdef02-2345-6789-abcd-ef0123456789",
+          "title": "Vegetables",
+          "level": "A1",
+          "imageName": "vegetables",
+          "order": 1,
+          "words": [
+            { "id": "abcd0004-0000-0000-0000-000000000004", "text": "carrot" },
+            { "id": "abcd0005-0000-0000-0000-000000000005", "text": "onion" }
+          ]
+        }
+      ]
+    }
+  ]
+}

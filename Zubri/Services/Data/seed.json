@@ -1,0 +1,23 @@
+{
+  "topics": [
+    {
+      "id": "E8F3A6F7-3F23-4A3F-AB11-111111111111",
+      "title": "School & Education",
+      "emoji": "📚",
+      "order": 0,
+      "subtopics": [
+        {
+          "id": "622B69B5-2222-4C2B-BE22-222222222222",
+          "title": "Plants",
+          "level": "A2",
+          "imageName": "subjects",
+          "order": 0,
+          "words": [
+            { "id": "33333333-3333-3333-3333-333333333333", "text": "leaf" },
+            { "id": "44444444-4444-4444-4444-444444444444", "text": "root" }
+          ]
+        }
+      ]
+    }
+  ]
+}
